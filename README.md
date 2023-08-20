@@ -1,5 +1,5 @@
-# google-play-store-apps-analysis
-In this EDA, I will explore the Google Play Store Apps dataset through visualizations and graphs using matplotlib and seaborn.
+# Google Play Store Apps Analysis
+In this EDA, I have explored the Google Play Store Apps dataset through visualizations and graphs using matplotlib and seaborn.
 
 1. **Google Play Store App Analysis Project:**
    - Conducted comprehensive analysis of app market trends and user behavior on the Google Play Store, utilizing data on download rates, ratings, and user demographics.
